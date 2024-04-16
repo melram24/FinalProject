@@ -496,7 +496,7 @@ button {
 .video_section{
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-color: #2c2345;
     height: auto;
     margin-top: 90px;
 }
