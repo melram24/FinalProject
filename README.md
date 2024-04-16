@@ -16,8 +16,8 @@
 14. Moved the social medias to the footer tab
 15. Added a link, email, and phone number to "Contact Us"
 16. Added a "navagation" in the footer tab 
-17. Changed the background image of the video section
+17. Changed the background image of the video section into a solid color
 18. Added a sign in label to the sign in tab
 19. Changed the picture next to the sign in tab
 20. Removed most of the "float: left;" in multiple parts in the css file for the products section
-21. 
+21. Changed the copyright
