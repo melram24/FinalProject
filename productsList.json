@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "The Mic",
+      "image": "images/mic1.webp",
+      "price": 25,
+      "description": "A high-quality microphone for recording and live performances."
+    },
+    {
+      "name": "Chromatica Mic",
+      "image": "images/mic2.webp",
+      "price": 50,
+      "description": "An advanced microphone with premium sound quality."
+    },
+    {
+      "name": "Fender Guitar",
+      "image": "images/guitar1.webp",
+      "price": 100,
+      "description": "A classic Fender guitar known for its rich tone and playability."
+    },
+    {
+      "name": "Chromatica Guitar",
+      "image": "images/guitar2.webp",
+      "price": 300,
+      "description": "A sleek and stylish guitar designed for professional musicians."
+    },
+    {
+      "name": "Fender Bass",
+      "image": "images/bass1.webp",
+      "price": 100,
+      "description": "A versatile Fender bass guitar suitable for various music genres."
+    },
+    {
+      "name": "XO Bass",
+      "image": "images/bass2.webp",
+      "price": 300,
+      "description": "A high-end bass guitar with exceptional sound and craftsmanship."
+    },
+    {
+      "name": "Garage Classic Drum Set",
+      "image": "images/drumSet2.webp",
+      "price": 250,
+      "description": "A complete drum set for beginners and intermediate drummers."
+    },
+    {
+      "name": "Rythmic Eclipse Drum Set",
+      "image": "images/drumSet1.webp",
+      "price": 450,
+      "description": "An advanced drum set with professional-grade components and superior sound."
+    }
+  ]
+}
